@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C11211242</string>
+    <string name="calculate_area">輸入長度/金額：</string>
+    <string name="calculate_currency">輸入寬度 (選填)：</string>
+    <string name="enter_value">結果：</string>
+
+    <string name="result_area">矩形面積: %.2f 平方單位</string>
+    <string name="result_currency">美金金額: %.2f USD</string>
+</resources>
